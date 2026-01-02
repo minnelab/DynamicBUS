@@ -66,4 +66,5 @@ This implementation is based on [Latte: Latent Diffusion Transformer for Video G
 
 ### License
 
-Copyright 2024 Yaofang Liu. Licensed under the Apache License 2.0 - see [LICENSE](LICENSE) for details.
+Copyright 2026 Yaofang Liu. Licensed under the Apache License 2.0 - see [LICENSE](LICENSE) for details.
+
