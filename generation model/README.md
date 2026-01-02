@@ -56,10 +56,14 @@ For image-to-video generation:
 bash sample/buv_video_buv_i2v.sh
 ```
 
+### Contact
+
+**Yaofang Liu**: [https://github.com/Yaofang-Liu](https://github.com/Yaofang-Liu)
+
 ### Acknowledgments
 
 This implementation is based on [Latte: Latent Diffusion Transformer for Video Generation](https://github.com/maxin-cn/Latte).
 
 ### License
 
-See [LICENSE](LICENSE) for details.
+Copyright 2024 Yaofang Liu. Licensed under the Apache License 2.0 - see [LICENSE](LICENSE) for details.
